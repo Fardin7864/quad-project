@@ -1,8 +1,9 @@
+import Banner from "./banner/Banner";
 
 const Home = () => {
     return (
-        <div>
-            <h2>This is home!</h2>
+        <div className="max-w-7xl mx-auto flex flex-col items-center">
+            <Banner/>
         </div>
     );
 };

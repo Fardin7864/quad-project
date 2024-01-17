@@ -70,7 +70,7 @@ const Nav = () => {
         </div>
         <div className=" flex justify-center">
           <button className=" hidden md:block p-4 rounded-full bg-[#fd6011]">
-            <GoPerson className=" text-2xl text-white bg-[#fd6011]" />
+            <GoPerson className=" text-xl text-white bg-[#fd6011]" />
           </button>
         </div>
       </div>
