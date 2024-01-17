@@ -7,8 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        'popins': ['Poppins', 'sans-serif'],
-        'ubunto-c': ['Ubuntu Condensed', 'sans-serif']
+        'popins': ['Poppins', 'sans-serif']
       }
     },
   },
