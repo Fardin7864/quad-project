@@ -15,3 +15,7 @@
 .text-p{
     color: #fd6011;
 }
+
+ul li a:hover {
+    color: #fd6011;
+}
